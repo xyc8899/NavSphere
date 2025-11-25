@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23li3BsYTCpdaNBX8R"
 GITHUB_OWNER = "xyc8899"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav-sphere-mu.vercel.app/api/auth"
-NEXT_PUBLIC_API_URL="https://nav-sphere-mu.vercel.app"
+NEXTAUTH_URL = "https://ss.xy188.vip/api/auth"
+NEXT_PUBLIC_API_URL="https://ss.xy188.vip"
 
